@@ -24,11 +24,9 @@ author_profile: true
 </div>
 <!-- Function which will handle the content received through JSONP -->
 <script type='text/javascript'>
-//<![CDATA[
     function mycallback(ad_content) {
     	document.getElementById('pubszone').innerHTML = ad_content.html;
     }
-//]]>
 </script>
 <!-- Load of the remote JS which will call the callback function -->
 <script src="https://www.csauthors.net/matthias-lindemann/embed/bib.js?callback=mycallback"></script>
