@@ -15,5 +15,5 @@ I work on compositional generalisation in semantic parsing but I'm also interest
 Before I came to Edinburgh, I got my Bachelor's and Master's in computational linguistics from Saarland University, where I worked on semantic graph parsing with amazing people like <a href="https://jgroschwitz.github.io/" target="_blank">Jonas Groschwitz</a>, <a href="https://meaghanfowlie.eu.pythonanywhere.com/" target="_blank">Meaghan Fowlie</a>, <a href="http://luciadonatelli.georgetown.domains/" target="_blank">Lucia Donatelli</a>, Pia Weißenhorn and  <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>.
 
 
-#### News
+### News
 -  <a href="https://arxiv.org/abs/2210.03183"> Compositional Generalisation with Structured Reordering and Fertility Layers</a> has been accepted to EACL 2023.
