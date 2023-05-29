@@ -16,4 +16,5 @@ Before I came to Edinburgh, I got my Bachelor's and Master's in computational li
 
 
 ### News
--  <a href="https://arxiv.org/abs/2210.03183"> Compositional Generalisation with Structured Reordering and Fertility Layers</a> has been accepted to EACL 2023.
+- <a href="https://arxiv.org/abs/2305.16954"> Compositional Generalization without Trees using Multiset Tagging and Latent Permutations</a> has been accepted to ACL 2023.
+- <a href="https://arxiv.org/abs/2210.03183"> Compositional Generalisation with Structured Reordering and Fertility Layers</a> has been accepted to EACL 2023.
