@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD student at the University of Edinburgh in the <a href="https://nlp-cdt.ac.uk/" target="_blank">Centre for Doctoral Training in Natural Language Processing</a>. My supervisor is <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> and I continue to work with <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>.
+Hi! I'm a PhD student at the University of Edinburgh in the <a href="https://nlp-cdt.ac.uk/" target="_blank">Centre for Doctoral Training in Natural Language Processing</a>. My supervisors are <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> (primary) and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a> (secondary).
 
 I work on compositional generalisation in semantic parsing but I'm also interested in induction of syntactic and semantic structure, parsing, grounding and generally structured deep learning models.
 
@@ -16,5 +16,5 @@ Before I came to Edinburgh, I got my Bachelor's and Master's in computational li
 
 
 ### News
-- <a href="https://arxiv.org/abs/2305.16954"> Compositional Generalization without Trees using Multiset Tagging and Latent Permutations</a> has been accepted to ACL 2023.
-- <a href="https://arxiv.org/abs/2210.03183"> Compositional Generalisation with Structured Reordering and Fertility Layers</a> has been accepted to EACL 2023.
+- Outstanding Paper Award at ACL 2023 for <a href="https://aclanthology.org/2023.acl-long.810/"> Compositional Generalization without Trees using Multiset Tagging and Latent Permutations</a>!
+- <a href="https://aclanthology.org/2023.eacl-main.159/"> Compositional Generalisation with Structured Reordering and Fertility Layers</a> has been accepted to EACL 2023.
