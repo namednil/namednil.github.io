@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD student at the University of Edinburgh in the <a href="https://nlp-cdt.ac.uk/" target="_blank">Centre for Doctoral Training in Natural Language Processing</a>. My supervisors are <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> (primary) and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a> (secondary).
+Hi! I'm a final-year PhD student at the University of Edinburgh in the <a href="https://nlp-cdt.ac.uk/" target="_blank">Centre for Doctoral Training in Natural Language Processing</a>. My supervisors are <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> (primary) and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a> (secondary).
 
 I work on compositional generalisation in semantic parsing but I'm interested more generally in structured prediction, latent variable models in NLP and in introducing (structural) inductive biases into deep learning models.
 
