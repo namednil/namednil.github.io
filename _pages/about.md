@@ -16,6 +16,7 @@ Before I came to Edinburgh, I got my Bachelor's and Master's in computational li
 
 
 ### News
+- Guest Lecture at the University of Amsterdam.
 - <a href="https://arxiv.org/abs/2310.00796">Injecting a Structural Inductive Bias into a Seq2Seq Model by Simulation</a> has been accepted to ACL 2024!
 - Talk on Structural Inductive Biases for Seq2Seq Models at the <a href="https://projects.illc.uva.nl/LaCo/CLS/">CL Seminar at the University of Amsterdam</a>.
 - Got an Outstanding Paper Award at ACL 2023 for <a href="https://aclanthology.org/2023.acl-long.810/"> Compositional Generalization without Trees using Multiset Tagging and Latent Permutations</a> 🏅
