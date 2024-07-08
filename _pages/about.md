@@ -10,12 +10,15 @@ redirect_from:
 
 Hi! I'm a final-year PhD student at the University of Edinburgh in the <a href="https://nlp-cdt.ac.uk/" target="_blank">Centre for Doctoral Training in Natural Language Processing</a>. My supervisors are <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> (primary) and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a> (secondary).
 
-I work on compositional generalisation in semantic parsing but I'm interested more generally in structured prediction, latent variable models in NLP and in introducing (structural) inductive biases into deep learning models.
+I work on compositional generalisation in semantic parsing but I'm interested more generally in structured prediction, latent variable models in NLP and introducing (structural) inductive biases into deep learning models. I'm also interested in better understanding how neural models of language work internally and making them easier to explain and debug.
 
 Before I came to Edinburgh, I got my Bachelor's and Master's in computational linguistics from Saarland University, where I worked on semantic graph parsing with amazing people like <a href="https://jgroschwitz.github.io/" target="_blank">Jonas Groschwitz</a>, <a href="https://meaghanfowlie.eu.pythonanywhere.com/" target="_blank">Meaghan Fowlie</a>, <a href="http://luciadonatelli.georgetown.domains/" target="_blank">Lucia Donatelli</a>, Pia Weißenhorn and  <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>.
 
 
 ### News
+- New preprint on [Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations](https://arxiv.org/abs/2407.04543).
+- Student researcher at Google Deepmind with <a href="https://stanojevic.github.io/">Miloš Stanojević</a> from July to October 2024.
+- Invited Talk at <a href="https://mcgill-nlp.github.io/reading-group/">McGill/Mila NLP reading group</a>.
 - Guest Lecture at the University of Amsterdam.
 - <a href="https://arxiv.org/abs/2310.00796">Injecting a Structural Inductive Bias into a Seq2Seq Model by Simulation</a> has been accepted to ACL 2024!
 - Talk on Structural Inductive Biases for Seq2Seq Models at the <a href="https://projects.illc.uva.nl/LaCo/CLS/">CL Seminar at the University of Amsterdam</a>.
