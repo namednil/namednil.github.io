@@ -16,8 +16,8 @@ Before I came to Edinburgh, I got my Bachelor's and Master's in computational li
 
 
 ### News
-- New preprint on [Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations](https://arxiv.org/abs/2407.04543).
-- Student researcher at Google Deepmind with <a href="https://stanojevic.github.io/">Miloš Stanojević</a> from July to October 2024.
+- [Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations](https://arxiv.org/abs/2407.04543) has been accepted to EMNLP 2024!
+- Student researcher at Google Deepmind with <a href="https://stanojevic.github.io/">Miloš Stanojević</a> from July to December 2024.
 - Invited Talk at <a href="https://mcgill-nlp.github.io/reading-group/">McGill/Mila NLP reading group</a>.
 - Guest Lecture at the University of Amsterdam.
 - <a href="https://arxiv.org/abs/2310.00796">Injecting a Structural Inductive Bias into a Seq2Seq Model by Simulation</a> has been accepted to ACL 2024 and <a href="https://arxiv.org/abs/2310.13561">Cache & Distil: Optimising API Calls to Large Language Models</a> has been accepted to ACL Findings!
