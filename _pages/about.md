@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm a final-year PhD student at the University of Edinburgh in the <a href="https://nlp-cdt.ac.uk/" target="_blank">Centre for Doctoral Training in Natural Language Processing</a>. My supervisors are <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> (primary) and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a> (secondary).
 
-My PhD topic is compositional generalisation in semantic parsing and introducing structural inductive biases into deep learning models. I'm also interested in better understanding how neural models of language work internally and making them more modular, efficient and easier to explain and debug.
+My PhD topic is compositional generalisation in semantic parsing and introducing structural inductive biases into deep learning models. I'm also interested in making neural models of language more data efficient, better understanding how they work internally and making them more modular, efficient and easier to explain and debug.
 
 Before I came to Edinburgh, I got my Bachelor's and Master's in computational linguistics from Saarland University where I worked on semantic graph parsing with amazing people like <a href="https://jgroschwitz.github.io/" target="_blank">Jonas Groschwitz</a>, <a href="https://meaghanfowlie.eu.pythonanywhere.com/" target="_blank">Meaghan Fowlie</a>, <a href="http://luciadonatelli.georgetown.domains/" target="_blank">Lucia Donatelli</a>, Pia Weißenhorn and  <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>.
 
