@@ -16,7 +16,7 @@ Before I came to Edinburgh, I got my Bachelor's and Master's in computational li
 
 
 ### News
-- New preprint with [John Gkountouras](https://j0hngou.github.io/): [Language Agents Meet Causality - Bridging LLMs and Causal World Models](https://arxiv.org/abs/2410.19923).
+- Paper with [John Gkountouras](https://j0hngou.github.io/) on [Language Agents Meet Causality - Bridging LLMs and Causal World Models](https://arxiv.org/abs/2410.19923) has been accepted to ICLR 2025!
 - Student researcher at Google DeepMind with <a href="https://stanojevic.github.io/">Miloš Stanojević</a> from July to December 2024.
 - [Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations](https://arxiv.org/abs/2407.04543) has been accepted to EMNLP 2024!
 - Invited Talk at <a href="https://mcgill-nlp.github.io/reading-group/">McGill/Mila NLP reading group</a>.
