@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a researcher working on Natural Language Processing and Machine Learning. I've recently completed a PhD at University of Edinburgh advised by <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>.
+Hi! I'm a post-doctoral researcher working on Natural Language Processing and Machine Learning at [Instituto de Telecomunicações](https://www.it.pt/) with <a href="https://andre-martins.github.io/" target="_blank">André Martins</a>. I've recently completed a PhD at University of Edinburgh advised by <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>.
 
 My [PhD thesis](https://era.ed.ac.uk/handle/1842/43689?) was on compositional generalization in semantic parsing and introducing inductive biases for the kinds of structures that are relevant for language (e.g. syntax) into deep learning models. I'm also interested in making neural models of language more data efficient, better understanding how they work internally and making them more modular, efficient and easier to explain and debug. 
 Before I came to Edinburgh, I got my Bachelor's and Master's in computational linguistics from Saarland University.
 
 
 ### News
+- September 2025: Started my postdoc in Lisbon!
 - Paper with [John Gkountouras](https://j0hngou.github.io/) on [Language Agents Meet Causality - Bridging LLMs and Causal World Models](https://arxiv.org/abs/2410.19923) has been accepted to ICLR 2025!
 - Student researcher at Google DeepMind with <a href="https://stanojevic.github.io/">Miloš Stanojević</a> from July to December 2024.
 - [Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations](https://arxiv.org/abs/2407.04543) has been accepted to EMNLP 2024!
