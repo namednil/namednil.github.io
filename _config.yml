@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Matthias Lindemann"
   avatar           : "DSCN6842_klein_klein.png" #"photo_matthias.jpg" #"matthias_for_upload_sc18472.jpg" #"profile.png"
-  bio              : "PhD student in NLP"
-  location         : "Edinburgh, Scotland"
+  bio              : "Postdoc in NLP"
+  location         : "Lisbon, Portugal"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=TEVnGGsAAAAJ&hl=de&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=TEVnGGsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
