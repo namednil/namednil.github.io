@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a post-doctoral researcher working on Natural Language Processing and Machine Learning at [Instituto de Telecomunicações](https://www.it.pt/) with <a href="https://andre-martins.github.io/" target="_blank">André Martins</a>. I've recently completed a PhD at University of Edinburgh advised by <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>.
+Hi! I'm a post-doctoral researcher working on Natural Language Processing and Machine Learning at the [SARDINE Lab](https://sardine-lab.github.io/) in Lisbon with <a href="https://andre-martins.github.io/" target="_blank">André Martins</a>. At the moment, I work on reasoning with Large Language Models and contribute to the next iteration of [EuroLLM](https://eurollm.io/). 
 
-My [PhD thesis](https://era.ed.ac.uk/handle/1842/43689?) was on compositional generalization in semantic parsing and introducing inductive biases for the kinds of structures that are relevant for language (e.g. syntax) into deep learning models. I'm also interested in making neural models of language more data efficient, better understanding how they work internally and making them more modular, efficient and easier to explain and debug. 
-Before I came to Edinburgh, I got my Bachelor's and Master's in computational linguistics from Saarland University.
+I've recently completed a PhD at University of Edinburgh advised by <a href="http://ivan-titov.org" target="_blank">Ivan Titov</a> and <a href="http://www.coli.uni-saarland.de/~koller/" target="_blank">Alexander Koller</a>. My [PhD thesis](https://era.ed.ac.uk/handle/1842/43689?) was on compositional generalization in semantic parsing and introducing inductive biases for the kinds of structures that are relevant for language (e.g. syntax) into deep learning models. I'm also interested in making language models more data efficient, better understanding how they work internally and making them more modular, efficient and easier to explain and debug. 
+
 
 
 ### News
