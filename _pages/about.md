@@ -15,6 +15,8 @@ I've recently completed a PhD at University of Edinburgh advised by <a href="htt
 
 
 ### News
+- Our paper [What's Holding Back Latent Visual Reasoning? ](https://arxiv.org/abs/2605.18445) has been accepted to Neurips 2026! Big congrats to [Guilherme Viveiros](https://www.gviveiros.com/)!
+- Presented past and ongoing work on [EuroLLM](https://eurollm.io/) at the UKP Lab at TU Darmstadt.
 - September 2025: Started my postdoc in Lisbon!
 - Paper with [John Gkountouras](https://j0hngou.github.io/) on [Language Agents Meet Causality - Bridging LLMs and Causal World Models](https://arxiv.org/abs/2410.19923) has been accepted to ICLR 2025!
 - Student researcher at Google DeepMind with <a href="https://stanojevic.github.io/">Miloš Stanojević</a> from July to December 2024.
